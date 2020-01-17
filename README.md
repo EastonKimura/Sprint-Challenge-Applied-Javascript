@@ -29,14 +29,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+DOM is a connection or "API" between our presentation and functionality.
 
 2. What is an event?
+any interaction that happens on the page or app.
 
 3. What is an event listener?
+its a method that enables interactions and tracks events.
 
 4. Why would we convert a NodeList into an Array?
+because nodelists are a javascipt API and not a browser API
 
 5. What is a component?
+it's HTML, CSS and Javascript used to make elements and use them.
 
 ### Git Set up
 
